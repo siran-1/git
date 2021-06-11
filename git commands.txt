@@ -1,0 +1,11 @@
+***GIT COMMANDS***
+
+GIT SETUP:
+--------
+1. git config --global user.name "siran"
+2. git config --global user.email "siranj***"
+3. git config --global color.ui auto
+
+**GIT SETUP WORKING DIR**
+1. git init . ( this setsup the current dir as git repo by adding .git files in the dir )
+2. 
