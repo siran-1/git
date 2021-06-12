@@ -8,4 +8,24 @@ GIT SETUP:
 
 **GIT SETUP WORKING DIR**
 1. git init . ( this setsup the current dir as git repo by adding .git files in the dir )
-2. 
+2. git add . or add filename ( this moves files to stagging )
+	git add -A ( adds everything including folders to staging )
+3. git commit -m "project" ( commits the added files )
+4. git status ( displays the changes done in our git repo )
+5. git diff ( displays the ammended data )
+6. ls -a ( displays all files including hidden files )
+7. git log ( displays committs )
+8. git commit --amend -m "message" ( this overwrites the last commit message )
+9. git restore "filename" ( this restores file to the last savepoint )
+10. git show commit hashhey ( this displays commit details )
+  
+
+
+
+
+
+
+
+
+
+
